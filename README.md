@@ -1,2 +1,2 @@
 # root-app
-Unofficial App for Root Accounts
+Unofficial Android App for Root Accounts
